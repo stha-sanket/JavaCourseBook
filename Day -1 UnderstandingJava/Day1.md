@@ -18,8 +18,11 @@ Java is a general purpose language that is used for;
 1. Single Line:
   - ``// this is a single line comment in java``
 2. Multi Line:
-  -  ``/* This is <br>
+  -  ``/* This is
 a
 multiline
 comment
 */``
+3. Document:
+ - `` /** this is a document that is used for java docs for better readability of java**/``
+
