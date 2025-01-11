@@ -26,3 +26,6 @@ comment
 3. Document:
  - `` /** this is a document that is used for java docs for better readability of java**/``
 
+## Java Classes:
+> Java application consists of multiple classes, whenever we create a code in java it is always written inside a class <br>
+> We can say a class as a container that consist the code of the application that organizes the code in one folder  
